@@ -1,0 +1,32 @@
+{
+    "1": {
+        "title": "A Wheel of Time",
+        "author": "Robert Jordan",
+        "genre": "Fantasy",
+        "ISBN": "0812511816"
+    },
+    "2": {
+        "title": "Clean Code",
+        "author": "Robert Martin",
+        "genre": "Computer",
+        "ISBN": "0132350882"
+    },
+    "3": {
+        "title": "Faust",
+        "author": "Johann Wolfgang Goethe",
+        "genre": "Fiction",
+        "ISBN": "0385031149"
+    },
+    "4": {
+        "title": "Good Omens",
+        "author": "Terry Pratchett & Neil Gaiman",
+        "genre": "Fantasy",
+        "ISBN": "0060853980"
+    },
+    "5": {
+        "title": "Norse Mythology",
+        "author": "Neil Gaiman",
+        "genre": "Old Tales",
+        "ISBN": "9780393609"
+    }
+}
